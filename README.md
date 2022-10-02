@@ -28,7 +28,7 @@
 
 ***
 
-***Todos List***  
+***Проект "Todos List"***  
 ***Список технологий: Vue + Vuex + Router + Validator***  
 
 ***Демонстрация проекта***  
@@ -39,7 +39,31 @@
 
 ***
 
-***Простая карточка товара"***  
+***Проект "Параллакс эффект"***  
+***Список технологий: HTML + CSS + JavaScript***  
+
+***Демонстрация проекта***  
+[`https://michaelbazhanov.github.io/Tailwind-ParallaxScrolling/`](https://michaelbazhanov.github.io/Tailwind-ParallaxScrolling/)  
+
+***Репозиторий проекта***  
+[`https://github.com/MichaelBazhanov/Tailwind-ParallaxScrolling`](https://github.com/MichaelBazhanov/Tailwind-ParallaxScrolling)  
+
+***
+
+***Проекты "Адаптивных админ панелей"***  
+***Список технологий: HTML + TailwindCSS + JavaScript***  
+
+***Демонстрация проекта***  
+[`https://michaelbazhanov.github.io/AdminDashboard-Tailwind-GridSystem/`](https://michaelbazhanov.github.io/AdminDashboard-Tailwind-GridSystem/)  
+[`https://michaelbazhanov.github.io/AdminDashboard/`](https://michaelbazhanov.github.io/AdminDashboard/)  
+
+***Репозиторий проекта***  
+[`https://github.com/MichaelBazhanov/AdminDashboard-Tailwind-GridSystem`](https://github.com/MichaelBazhanov/AdminDashboard-Tailwind-GridSystem)  
+[`https://github.com/MichaelBazhanov/AdminDashboard`](https://github.com/MichaelBazhanov/AdminDashboard)  
+
+***
+
+***Проект "Простая карточка товара"***  
 ***Список технологий: React + TailwindCSS***  
 
 ***Демонстрация проекта***  
@@ -50,35 +74,13 @@
 
 ***
 
-***Параллакс эффект"***  
-***Список технологий: HTML + CSS + JavaScript***  
+***Проект "Простая верстка одной страницы интернет магазина"***  
+***Список технологий: HTML + CSS + jQuery***  
 
 ***Демонстрация проекта***  
-[`https://pattern-card.vercel.app/`](https://pattern-card.vercel.app/)  
+[`https://michaelbazhanov.github.io/Eleptika/`](https://michaelbazhanov.github.io/Eleptika/)  
 
 ***Репозиторий проекта***  
-[`https://github.com/MichaelBazhanov/patternCard`](https://github.com/MichaelBazhanov/patternCard)  
+[`https://github.com/MichaelBazhanov/Eleptika`](https://github.com/MichaelBazhanov/Eleptika)  
 
 ***
-
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------
-https://michaelbazhanov.github.io/Tailwind-ParallaxScrolling/
-Проект "Параллакс эффект"
---------------------------------------------------------------------------------
-https://michaelbazhanov.github.io/AdminDashboard-Tailwind-GridSystem/
-https://michaelbazhanov.github.io/AdminDashboard/
-Проект "Адаптивных админ панелей" на TailwindCSS (просто верстка)
---------------------------------------------------------------------------------
-https://michaelbazhanov.github.io/Eleptika/
-Проект "Простой верстки интернет магазина"
---------------------------------------------------------------------------------
