@@ -20,15 +20,15 @@
 ***Демонстрация проекта - админ панель***  
 [`https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login `](https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login)  
 
+| Логин         |    **Bazhanov**    |
+| Пароль        | **Bazhanov082020** |
 
 ***Репозиторий проекта***  
 [`https://github.com/MichaelBazhanov/bazhanov-ls`](https://github.com/MichaelBazhanov/bazhanov-ls)  
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-|:------------- |:---------------:| -------------:|
-| col 3 is      | some wordy text |     **$1600** |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
+
+
+
 
 
 
