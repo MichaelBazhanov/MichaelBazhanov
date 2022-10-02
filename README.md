@@ -7,12 +7,40 @@
 [`https://loft-taxi-two.vercel.app/login`](https://loft-taxi-two.vercel.app/login)  
 
 ***Репозиторий проекта***  
-[https://github.com/MichaelBazhanov/loft-taxi](https://github.com/MichaelBazhanov/loft-taxi)
+[`https://github.com/MichaelBazhanov/loft-taxi`](https://github.com/MichaelBazhanov/loft-taxi)  
+
 ***
+
+***Проект "Сайт с админкой"***  
+***Список технологий:  Vue + Vuex + Router + Validator + Axios + Storybook + Jest***  
+
+***Демонстрация проекта***  
+[`https://michaelbazhanov.github.io/bazhanov-ls/`](https://michaelbazhanov.github.io/bazhanov-ls/)  
+
+***Демонстрация проекта - админ панель***  
+[`https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login `](https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login)  
+
+
+***Репозиторий проекта***  
+[`https://github.com/MichaelBazhanov/bazhanov-ls`](https://github.com/MichaelBazhanov/bazhanov-ls)  
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+|:------------- |:---------------:| -------------:|
+| col 3 is      | some wordy text |     **$1600** |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+
+
+
+
+
+
+
+
 
 https://michaelbazhanov.github.io/bazhanov-ls/ - Сайт
 https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login - Авторизация на сайте
-Проект "Сайт с админкой" на Vue + Vuex + Router + Validator + Axios + Storybook + Jest
+
 
 Репозиторий проекта
 https://github.com/MichaelBazhanov/bazhanov-ls
