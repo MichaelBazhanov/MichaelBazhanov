@@ -23,6 +23,11 @@
 | Логин         |    **Bazhanov**    |
 | Пароль        | **Bazhanov082020** |
 
+|:------------- |:---------------:| -------------:|
+| col 3 is      | some wordy text |     **$1600** |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+
 ***Репозиторий проекта***  
 [`https://github.com/MichaelBazhanov/bazhanov-ls`](https://github.com/MichaelBazhanov/bazhanov-ls)  
 
