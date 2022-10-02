@@ -1,11 +1,13 @@
-Портфолио в GitHab :
---------------------------------------------------------------------------------
-https://loft-taxi-two.vercel.app/login
-Проект "Сайт заказа такси" на React + Redux-Saga + Router + Jest + TailwindCSS
+Схема портфолио на GitHab :
 
-Репозиторий проекта
-https://github.com/MichaelBazhanov/loft-taxi
---------------------------------------------------------------------------------
+***
+--Проект "Сайт заказа такси" на React + Redux-Saga + Router + Jest + TailwindCSS--
+`https://loft-taxi-two.vercel.app/login`
+
+--Репозиторий проекта--
+`https://github.com/MichaelBazhanov/loft-taxi`
+***
+
 https://michaelbazhanov.github.io/bazhanov-ls/ - Сайт
 https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login - Авторизация на сайте
 Проект "Сайт с админкой" на Vue + Vuex + Router + Validator + Axios + Storybook + Jest
