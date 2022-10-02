@@ -1,10 +1,10 @@
-Схема портфолио на GitHab :
+# Схема портфолио на GitHab :
 
 ***
--- Проект "Сайт заказа такси" на React + Redux-Saga + Router + Jest + TailwindCSS --  
+## Проект "Сайт заказа такси" на React + Redux-Saga + Router + Jest + TailwindCSS  
 [https://loft-taxi-two.vercel.app/login](https://loft-taxi-two.vercel.app/login)
 
--- Репозиторий проекта --  
+## Репозиторий проекта  
 [https://github.com/MichaelBazhanov/loft-taxi](https://github.com/MichaelBazhanov/loft-taxi)
 ***
 
