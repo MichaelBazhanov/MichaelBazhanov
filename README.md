@@ -2,7 +2,8 @@
 
 ***Проект "Сайт заказа такси"***  
 ***Список технологий: React + Redux-Saga + Router + Jest + TailwindCSS***  
-***Демонстрация проекта*** 
+
+***Демонстрация проекта***  
 [https://loft-taxi-two.vercel.app/login](https://loft-taxi-two.vercel.app/login)  
 
 ***Репозиторий проекта***  
