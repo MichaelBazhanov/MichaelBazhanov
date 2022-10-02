@@ -20,13 +20,16 @@
 ***Демонстрация проекта - админ панель***  
 [`https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login `](https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login)  
 
-| Логин         |    **Bazhanov**    |
-| Пароль        | **Bazhanov082020** |
+**Логин  :** __Bazhanov__  
+**Пароль :** __Bazhanov082020__  
 
-|:------------- |:---------------:| -------------:|
-| col 3 is      | some wordy text |     **$1600** |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
+| Логин         |    **Bazhanov**    |  
+| Пароль        | **Bazhanov082020** |  
+
+|:------------- |:---------------:| -------------:|  
+| col 3 is      | some wordy text |     **$1600** |  
+| col 2 is      | centered        |         $12   |  
+| zebra stripes | are neat        |        ~~$1~~ |  
 
 ***Репозиторий проекта***  
 [`https://github.com/MichaelBazhanov/bazhanov-ls`](https://github.com/MichaelBazhanov/bazhanov-ls)  
