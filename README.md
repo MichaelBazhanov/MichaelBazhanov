@@ -20,42 +20,15 @@
 ***Демонстрация проекта - админ панель***  
 [`https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login `](https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login)  
 
-**Логин  :** __Bazhanov__  
-**Пароль :** __Bazhanov082020__  
-
-| Логин         |    **Bazhanov**    |  
-| Пароль        | **Bazhanov082020** |  
-
-|:------------- |:---------------:| -------------:|  
-| col 3 is      | some wordy text |     **$1600** |  
-| col 2 is      | centered        |         $12   |  
-| zebra stripes | are neat        |        ~~$1~~ |  
+**Логин  :** _Bazhanov_  
+**Пароль :** _Bazhanov082020_  
 
 ***Репозиторий проекта***  
 [`https://github.com/MichaelBazhanov/bazhanov-ls`](https://github.com/MichaelBazhanov/bazhanov-ls)  
 
+***
 
 
-
-
-
-
-
-
-
-
-
-
-https://michaelbazhanov.github.io/bazhanov-ls/ - Сайт
-https://michaelbazhanov.github.io/bazhanov-ls/admin/#/login - Авторизация на сайте
-
-
-Репозиторий проекта
-https://github.com/MichaelBazhanov/bazhanov-ls
-
-Для входа в админку:
-логин: Bazhanov
-пароль: Bazhanov082020
 --------------------------------------------------------------------------------
 https://michaelbazhanov.github.io/todos/#/
 Проект "Todos List" на Vue + Vuex + Router + Validator
