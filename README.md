@@ -1,4 +1,4 @@
-# Схема портфолио на GitHub :
+# Структура портфолио на GitHub :
 
 ***Проект "Заказа такси"***  
 ***Список технологий: React + Redux-Saga + Router + Jest + TailwindCSS***  
