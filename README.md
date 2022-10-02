@@ -1,4 +1,4 @@
-# Схема портфолио на GitHab :
+# Схема портфолио на GitHub :
 
 ***Проект "Заказа такси"***  
 ***Список технологий: React + Redux-Saga + Router + Jest + TailwindCSS***  
@@ -28,7 +28,7 @@
 
 ***
 
-***Todos List"***  
+***Todos List***  
 ***Список технологий: Vue + Vuex + Router + Validator***  
 
 ***Демонстрация проекта***  
@@ -38,6 +38,29 @@
 [`https://github.com/MichaelBazhanov/todos`](https://github.com/MichaelBazhanov/todos)  
 
 ***
+
+***Простая карточка товара"***  
+***Список технологий: React + TailwindCSS***  
+
+***Демонстрация проекта***  
+[`https://pattern-card.vercel.app/`](https://pattern-card.vercel.app/)  
+
+***Репозиторий проекта***  
+[`https://github.com/MichaelBazhanov/patternCard`](https://github.com/MichaelBazhanov/patternCard)  
+
+***
+
+***Параллакс эффект"***  
+***Список технологий: HTML + CSS + JavaScript***  
+
+***Демонстрация проекта***  
+[`https://pattern-card.vercel.app/`](https://pattern-card.vercel.app/)  
+
+***Репозиторий проекта***  
+[`https://github.com/MichaelBazhanov/patternCard`](https://github.com/MichaelBazhanov/patternCard)  
+
+***
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -47,9 +70,7 @@
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-https://pattern-card.vercel.app/
-Проект "Простая карточка товара" на React + TailwindCSS (Опубликован на Vercel)
+
 --------------------------------------------------------------------------------
 https://michaelbazhanov.github.io/Tailwind-ParallaxScrolling/
 Проект "Параллакс эффект"
